@@ -1,7 +1,4 @@
-.holder{
-	display:flex;
-	justify-content:space-evenly;
-}
+
 .item{
     text-align: center;
     height: 50px;
