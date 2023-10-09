@@ -1,6 +1,5 @@
 .holder{
 	display:flex;
-	flexwrap:wrap;
 	justify-content:space-evenly;
 }
 .item{
