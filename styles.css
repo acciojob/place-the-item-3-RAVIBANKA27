@@ -1,2 +1,26 @@
-
+.holder{
+	display:flex;
+	flexwrap:wrap;
+	justify-content:space-evenly;
+}
+.item{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}
+.item-1{
+    background-color: blue;
+}
+.item-2{
+    background-color: green;
+}
+.item-3{
+    background-color: red;
+}
+.item-4{
+    background-color: yellow;
+}
+.item-5{
+	background-color: purple;
+}
 /* Your CSS Code here. */
